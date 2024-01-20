@@ -15,5 +15,6 @@ function App() {
     </React.Suspense>
   )
 }
+// teste
 
 export {App}
